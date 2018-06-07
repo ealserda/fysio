@@ -702,44 +702,6 @@
           "result": 35
         }
       ]
-    },
-    {
-      "firstname": "Erik",
-      "lastname": "Alserda",
-      "emailFamily": "ealserda@gmail.com",
-      "birthdate": "16-02-1996",
-      "weight": "80",
-      "length": "170",
-      "tel": "response",
-      "sex": 1,
-      "physiotherapistId": 1,
-      "id": 15,
-      "max_bpm": "",
-      "goal": ""
-    },
-    {
-      "firstname": "Jan",
-      "lastname": "Jaap",
-      "emailFamily": "test@gmail.com",
-      "birthdate": "25-02-1996",
-      "weight": "80",
-      "length": "180",
-      "tel": "0631677484",
-      "sex": 1,
-      "physiotherapistId": 1,
-      "id": 16
-    },
-    {
-      "firstname": "Thijs",
-      "lastname": "243f4",
-      "emailFamily": "",
-      "birthdate": "16-02-1996",
-      "weight": "8",
-      "length": "170",
-      "tel": "4545454545",
-      "sex": 1,
-      "physiotherapistId": 1,
-      "id": 17
     }
   ]
 }
